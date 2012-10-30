@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# Hämta dessa från cache.
+index.html
+/
+/favicon.ico
+kitten.jpeg
+main.css
+
+
+# Försök alltid hämta från nätverket
+NETWORK:
+/api
+app.js
+extra.css
